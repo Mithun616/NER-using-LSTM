@@ -95,9 +95,11 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![alt text](image.png)
 
 ### Sample Text Prediction
 
+![alt text](image-1.png)
 
 ## RESULT
 
